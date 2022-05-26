@@ -6,6 +6,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,md,&theme=light)]()
 
+  <!-- 访问计数 -->
+  <img src="https://profile-counter.glitch.me/{it-andy-hou}/count.svg" />
+
 <!--
 **it-andy-hou/it-andy-hou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
