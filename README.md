@@ -1,4 +1,4 @@
-### Hi there 👋
+![Andy Hou GitHub stats](https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight)
 
 <!--
 **it-andy-hou/it-andy-hou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
