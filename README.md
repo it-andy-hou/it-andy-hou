@@ -2,7 +2,7 @@
 
 ![Andy Hou GitHub stats](https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-andy-hou&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-andy-hou&theme=vue)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,md,&theme=light)]()
 
