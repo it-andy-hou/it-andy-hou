@@ -1,10 +1,11 @@
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=it-andy-hou&data=followers,repositories,stars,commits)](https://github.com/it-andy-hou) -->
 
-![Andy Hou GitHub stats](https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight)
-
 <!-- 访问计数 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou&left_color=green&right_color=red)
 
+![Andy Hou GitHub stats](https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight)
+
+## 👨🏻‍💻 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,html,js,css,github,md,&theme=light)]()
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-andy-hou&theme=monokai) -->
