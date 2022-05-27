@@ -9,6 +9,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-andy-hou&theme=monokai)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=it-andy-hou&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **it-andy-hou/it-andy-hou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
