@@ -3,7 +3,7 @@
 ![Andy Hou GitHub stats](https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight)
 
 <!-- 访问计数 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou&left_color=green&right_color=red)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,md,&theme=light)]()
 
