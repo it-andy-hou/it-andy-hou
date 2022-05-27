@@ -1,11 +1,13 @@
 <!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=it-andy-hou&data=followers,repositories,stars,commits)](https://github.com/it-andy-hou) -->
 
+<img align="right" src="https://skillicons.dev/icons?i=linux,bash,md,&theme=light" />
+
 ![Andy Hou GitHub stats](https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight)
 
 <!-- 访问计数 -->
 <!-- <img align="right" src="https://profile-counter.glitch.me/{it-andy-hou}/count.svg" /> -->
 
-<img align="right" src="https://skillicons.dev/icons?i=linux,bash,md,&theme=light" />
+
 
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=linux,bash,md,&theme=light)]() -->
