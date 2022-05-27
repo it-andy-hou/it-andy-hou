@@ -5,7 +5,7 @@
 <!-- 访问计数 -->
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou&left_color=green&right_color=red)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,html,js,css,github,md,&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,powershell,html,js,css,github,md,&theme=light)]()
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-andy-hou&theme=monokai) -->
 
