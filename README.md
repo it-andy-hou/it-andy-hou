@@ -9,7 +9,8 @@
 
 
 <!-- 访问计数 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou&left_color=green&right_color=red)
+<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou&left_color=green&right_color=red)-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou.visitor-badge)
 <!--
 **it-andy-hou/it-andy-hou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
