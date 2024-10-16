@@ -12,7 +12,7 @@
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou&left_color=green&right_color=red)-->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=it-andy-hou&left_color=green&right_color=red)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=it-andy-hou.visitor-badge&left_color=red&right_color=green) 
-RGB colors eg: #595959 needs to be %23595959 in the URL
+
 <!--
 **it-andy-hou/it-andy-hou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
