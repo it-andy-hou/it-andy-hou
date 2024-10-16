@@ -5,6 +5,8 @@
 
 [![](https://skillicons.dev/icons?i=prometheus,grafana,&theme=light)]()
 
+[![](https://skillicons.dev/icons?i=vscode,sublime,&theme=light)]()
+
 ![Andy Hou GitHub stats](https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight)
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-andy-hou&theme=monokai) -->
