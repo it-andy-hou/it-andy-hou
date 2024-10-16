@@ -10,7 +10,6 @@
 
 <!-- 访问计数 -->
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou&left_color=green&right_color=red)-->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=it-andy-hou&left_color=green&right_color=red)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=it-andy-hou.visitor-badge&left_color=red&right_color=green) 
 
 <!--
