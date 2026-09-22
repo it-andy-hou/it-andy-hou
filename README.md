@@ -2,7 +2,7 @@
 
 > **FinTech Infrastructure & Operations Engineer | Terminal Toolmaker | Automation Enthusiast**
 
-专注于高可用金融系统架构运维、内网隔离网络调优与生产环境稳定性治理；喜欢用 Go、Python 和 Shell 打造轻量、无外部依赖的离线运维排障工具与自动化工作流。
+专注于高可用金融系统架构运维、生产环境稳定性治理；喜欢用 Go、Python 和 Shell 打造轻量、无外部依赖的离线运维排障工具与自动化工作流。
 
 ---
 
@@ -31,8 +31,8 @@ Workflow & Editor       :  Qode · Vim · Markdown · CodeX
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=it-andy-hou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
----
 
+---
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=it-andy-hou.visitor-badge&left_color=black&right_color=green" alt="visitor badge" />
 </p>
