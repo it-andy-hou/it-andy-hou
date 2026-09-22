@@ -11,8 +11,8 @@
 ```text
 Infrastructure & Shell  :  Linux · Bash · PowerShell · Git
 Automation & Core       :  Go · Python · Elasticsearch (ES|QL)
-Observability & Ops     :  Prometheus · Grafana · dnsmasq · NGINX
-Workflow & Editor       :  VS Code · Vim · Markdown · Cloudflare
+Observability & Ops     :  Prometheus · Grafana · Zabbix · NGINX
+Workflow & Editor       :  Qode · Vim · Markdown · CodeX
 ```
 
 <p align="left">
