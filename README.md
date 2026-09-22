@@ -1,32 +1,39 @@
-<!-- [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=it-andy-hou&data=followers,repositories,stars,commits)](https://github.com/it-andy-hou) -->
+# Hi, I'm Hou Jingang (Andy) 👋
 
-## 👨🏻‍💻 Languages and Tools
-[![](https://skillicons.dev/icons?i=linux,bash,powershell,go,md,&theme=light)]()
+> **FinTech Infrastructure & Operations Engineer | Terminal Toolmaker | Automation Enthusiast**
 
-[![](https://skillicons.dev/icons?i=prometheus,grafana,&theme=light)]()
+专注于高可用金融系统架构运维、内网隔离网络调优与生产环境稳定性治理；喜欢用 Go、Python 和 Shell 打造轻量、无外部依赖的离线运维排障工具与自动化工作流。
 
-[![](https://skillicons.dev/icons?i=vscode,sublime,&theme=light)]()
+---
 
-![Andy Hou GitHub stats](https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight)
+### 🛠️ Languages & Toolchain
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=it-andy-hou&theme=monokai) -->
+```text
+Infrastructure & Shell  :  Linux · Bash · PowerShell · Git
+Automation & Core       :  Go · Python · Elasticsearch (ES|QL)
+Observability & Ops     :  Prometheus · Grafana · dnsmasq · NGINX
+Workflow & Editor       :  VS Code · Vim · Markdown · Cloudflare
+```
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,go,python,elasticsearch,prometheus,grafana,cloudflare,git,vscode,vim&perline=6&theme=dark" alt="Tech Stack" />
+</p>
 
-<!-- 访问计数 -->
-<!--![visitors](https://visitor-badge.glitch.me/badge?page_id=it-andy-hou&left_color=green&right_color=red)-->
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=it-andy-hou.visitor-badge&left_color=red&right_color=green) 
+---
 
-<!--
-**it-andy-hou/it-andy-hou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Activity & System Metrics
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://github.com/it-andy-hou">
+    <img src="https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Andy's GitHub Stats" />
+  </a>
+  <a href="https://github.com/it-andy-hou">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-andy-hou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=it-andy-hou.visitor-badge&left_color=black&right_color=green" alt="visitor badge" />
+</p>
