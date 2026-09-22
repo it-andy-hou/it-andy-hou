@@ -25,13 +25,12 @@ Workflow & Editor       :  Qode · Vim · Markdown · CodeX
 
 <p align="left">
   <a href="https://github.com/it-andy-hou">
-    <img src="https://github-readme-stats.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Andy's GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=it-andy-hou&show_icons=true&theme=tokyonight&hide_border=true" alt="Andy's GitHub Stats" />
   </a>
   <a href="https://github.com/it-andy-hou">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-andy-hou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=it-andy-hou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
-
 ---
 
 <p align="center">
